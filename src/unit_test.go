@@ -43,7 +43,7 @@ func TestEmployeeReportee(t *testing.T) {
 	}
 }
 
-func TestAddReportee(t *testing.T) {
+func TestAddReporteeFunc(t *testing.T) {
 	t.Parallel()
 
 	claire := Employee{Name: "Claire", Reportees: list.New()}
