@@ -34,7 +34,7 @@
 
 
 ##### To stop the container and remove image:
-    user@host:~$ sh stop.sh
+    user@host:~$ sh clean.sh
 
 
 #### Test cases:
