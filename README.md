@@ -41,7 +41,7 @@
 1. TestEmployeeStruct
 1. TestOrganisationStruct
 1. TestEmployeeReportee
-1. TestAddReportee
+1. TestAddReporteeFunc
 1. TestAddReporteeError
 1. TestManagerExistsForEmp
 1. TestAddEmployeeFunc
