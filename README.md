@@ -4,7 +4,7 @@
 
 ## About me:
 
-  * Name: Abdul Ahad
+  * Abdul Ahad (Software Developer)
 
 ##  Assumptions
 <p align="left">The task in completed based on following assumptions on Employee and Organisation</p>
@@ -29,10 +29,11 @@
 #### Running tests in docker containers
     user@host:~$ cd scripts
 
-To build the image and run the container:
-    user@host:~$ sh run.sh  
+##### To build the image and run the container
+    user@host:~$ sh run.sh
 
-To stop the container and remove image:
+
+##### To stop the container and remove image:
     user@host:~$ sh stop.sh
 
 
